@@ -1,0 +1,92 @@
+h2{
+    font-family:'Quicksand';
+    text-align: left;
+    font-size: 25px;
+}
+header{
+    text-align: center;
+	background: url('images/fire.jpg');
+	background-size: cover;
+	padding:20px 0px 0px 0px;
+}
+#header-chris{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+::selection {
+    color: #FFFFFF; 
+    background: #C73E3E;
+}
+#padding{
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+ }
+.inline{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+ }
+ #links{
+     color:white;
+ }
+ #newyork{
+    margin: 40px 0px 0px 0px;
+    border: 15px;
+    color: #f7bec0;
+    border: 20px double;
+    border-radius: 150px;
+ }
+ body{
+     background: #84a9c0;
+     margin-top: 0px;
+     margin-right: 0px;
+     margin-bottom: 0px;
+     margin-left: 0px;
+     text-align: left;
+     font-family:'Karla';
+     color: white;
+ }
+ article{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+ }
+ li a:hover {
+    background-color: #84a9c0;
+    color: white;
+ }
+ img{
+    margin: 40px 0px 0px 0px;
+ }
+ #computer{
+     border: 21px dotted #d7e8e2;
+     border-style: ridge;
+     border-width: 7px;
+ }
+ div{
+     text-align: center;
+ }
+ #h1{
+    font-family:'Karla';
+    text-align: center;
+    font-size: 45px;
+ }
+ #keyboard{
+    border: 10px solid #915559;
+    border-radius: 30px;
+ }
+ .ATM{
+     font-size: 21px;
+ }
+ #coding{
+    border: 10px solid #915559;
+    border-radius: 30px;
+ }
+ #tech{
+    border: 10px solid #915559;
+    border-radius: 30px;
+ }
+ img{
+    border: 10px solid #915559;
+    border-radius: 30px;
+ }
