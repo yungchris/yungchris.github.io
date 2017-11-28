@@ -5,7 +5,7 @@ h2{
 }
 header{
     text-align: center;
-	background: url('images/bluesmoke.jpg');
+	background: url('images/offwhite.jpg');
 	background-size: cover;
 	padding:20px 0px 0px 0px;
 }
@@ -16,7 +16,7 @@ header{
 }
 ::selection {
     color: #FFFFFF; 
-    background: #b3cbb9;
+    background: #91555a;
 }
 #padding{
     padding: 10px;
